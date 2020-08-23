@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "485569303285",
+    "firebase_url": "https://v-go-9ea20.firebaseio.com",
+    "project_id": "v-go-9ea20",
+    "storage_bucket": "v-go-9ea20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485569303285:android:a9f3965668bb148b91abbc",
+        "android_client_info": {
+          "package_name": "com.mhendriawan.vgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485569303285-co0lq25dsjp3okn9mvgeeca69ee3rour.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxUj_7IsSc2tmoB2Xn5IYEbE3P39w9Vgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485569303285-co0lq25dsjp3okn9mvgeeca69ee3rour.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
